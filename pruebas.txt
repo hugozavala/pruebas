@@ -1,5 +1,40 @@
 creacion del primer archivo en nuestro repositorio
+se modifica el archivo
 
+:w
+:q
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:w
+:q
 
 
 
